@@ -19,7 +19,7 @@ app.use("/",function(req,res){
     res.send(`use this address: /record/{enrollment-Number}`);
 })
 
-let port = 8000;
+const port = process.env.PORT || 3000;
 app.listen(port,function(){
     console.log(`server running at localport:${port}`);
 })
