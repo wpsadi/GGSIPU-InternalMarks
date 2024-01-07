@@ -30,4 +30,4 @@ jobs:
     - run: npm install cors
     - run: npm install nodemon
     - run: npm install dotenv
-    - run: npm run start
+    - run: nodejs ./api.js
