@@ -1,0 +1,13 @@
+CT101 Programming for Problem Solving
+ICT103 Electrical Science
+ICT105 Engineering Mechanics
+HS107 Communication Skills-I
+BS109 Engineering Chemistry – I
+BS111 Engineering Mathematics – I
+BS113 Engineering Physics – I
+LLB115 Indian Constitution
+ICT151 Programming for Problem Solving Lab.
+ICT153 Engineering Graphics-I
+ICT155 Electrical Science Lab
+BS157 Engineering Chemistry-I Lab
+BS159 Engineering Physics - I Lab
